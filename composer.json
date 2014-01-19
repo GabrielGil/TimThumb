@@ -5,6 +5,7 @@
         "name": "Gabriel Gil",
         "email": "hello@gabrielgil.es"
     }],
+    "license": "GPL-2.0",
     "require": {},
     "autoload": {
         "classmap": ["./"]
