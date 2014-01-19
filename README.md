@@ -23,6 +23,10 @@ To use this repo on you composer proyect, simply add an *vcs* repository pointin
 }
 ```
 
-## Good way to use `timthumb.php`
+### Good way to use `timthumb.php`
 
-- [ ] this is an incomplete item haha
+#### Pending stuff
+
+## Documentation
+
+You can also check the original documentation at [binarymoon.uk](http://binarymoon.co.uk/projects/timthumb)
