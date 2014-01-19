@@ -1,0 +1,12 @@
+{
+    "name": "gabrielgil/timthumb",
+    "description": "TimThumb is a simple, flexible, PHP script that resizes images.",
+    "authors": [{
+        "name": "Gabriel Gil",
+        "email": "hello@gabrielgil.es"
+    }],
+    "require": {},
+    "autoload": {
+        "classmap": ["./"]
+    }
+}
