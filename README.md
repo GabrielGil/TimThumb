@@ -23,7 +23,7 @@ To use this repo on you composer proyect, simply add an *vcs* repository pointin
 }
 ```
 
-### Good way to use `timthumb.php`
+### A better way to use TimThumb
 
 I think it's a good way of using timthumb storing it on a non-public folder (Like the whole composer *vendor* folder) and then create your **own** resizer endpoint.
 
